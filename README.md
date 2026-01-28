@@ -36,3 +36,6 @@ Get your free API key from: https://www.omdbapi.com/
 - API integration using fetch
 - Reusable components
 - Responsive UI design
+
+## Conclusion
+It is a simple yet effective React application that demonstrates core frontend development concepts such as component-based architecture, state management, and API integration. This project helps in understanding how real-time data can be fetched and displayed dynamically while maintaining a clean and responsive user interface. Overall, it is a practical project for strengthening React fundamentals and building confidence in frontend development.
